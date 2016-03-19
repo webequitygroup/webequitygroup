@@ -22,7 +22,19 @@ hefo_after:
 
 三個字: **回報率**
 
+根據[凱利公式(Kelly's Criteria)](https://en.wikipedia.org/wiki/Kelly_criterion)
 
+投資回報率= 12%
+平台每年存活率 = 95%
+
+按公式計算應該投入53% 的資金 
+
+### 思考模型
+
+* 大數定律(Law of Large Numbers)
+* 凱利公式(Kelly's Criteria)
+* 博弈理論(Games Theory)
+* Invert
 
 ### 封閉的中國銀行系統, 高借貸利率
 
