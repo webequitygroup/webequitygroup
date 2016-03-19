@@ -18,7 +18,11 @@ hefo_after:
 
 [Photo credit: Lendingmemo](http://lendingmemo.com/)
 
-## 為什麼要研究中國網貸市場?
+## 為什麼中國網貸市場有吸引力?
+
+三個字: **回報率**
+
+
 
 ### 封閉的中國銀行系統, 高借貸利率
 
