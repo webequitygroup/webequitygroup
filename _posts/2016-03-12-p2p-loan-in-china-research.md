@@ -8,9 +8,9 @@ layout: post
 permalink: >
   http://www.webequitygroup.com/p2p-loan-in-china-research/
 published: true
+hefo_before:
+  - "0"
+hefo_after:
+  - "0"
 ---
-
-
-testing this is a testing
-
-again thsi is atesting
+testing this is a testing again thsi is atesting
