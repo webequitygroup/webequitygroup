@@ -18,14 +18,14 @@ hefo_after:
 
 [Photo credit: Lendingmemo](http://lendingmemo.com/)
 
-# 為什麼要研究中國網貸市場?
+## 為什麼要研究中國網貸市場?
 
-## 封閉的中國銀行系統, 高借貸利率
+### 封閉的中國銀行系統, 高借貸利率
 
 
 >The most fertile land for the P2P industry is in China, not in the US or Europe, because the banks in China have so far kept tight controls over credit cards, and large sections of the private sector still find it hard to gain access to finance. - 張化橋
 
-## 大數原則( Law of Large Numbers ) 和互聯網
+### 大數定律(Law of Large Numbers) 和互聯網
 
 爲什麽P2P是最近五六年在美國出現，在英國出現，最近三年在中國出現，其實它出現的理由就是因爲有互聯網:
 
@@ -40,14 +40,14 @@ hefo_after:
 在互聯網出現以前, 這種因為每個借款交易成本太高關係,做不到.
 
 
-## 透明帶來信任
+### 透明帶來信任
 
 互联网金融包括P2P的一个优势是所有的交易在线上，线上的交易本身就是比较透明的，我可以确定这个两方面整个的资料是什么。如果我搞一个线下的做法，其实每个业务人跟借款人，跟投资人说什么话我都不清楚。所以P2P在线上的一个很大优势是所有的资料是透明的，
 
 而透明, 或表現透明, 會帶來信任.
 
 
-# Base Rate
+## Base Rate
 
 ** 壞賬率:**
 
