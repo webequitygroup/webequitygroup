@@ -14,6 +14,9 @@ hefo_after:
   - "0"
 ---
 
+![P2P leanding](http://www.webequitygroup.com/wp-content/uploads/2016/03/11431890626_968e116d1b_o.jpg)
+
+[Photo credit: Lendingmemo](http://lendingmemo.com/)
 
 # 為什麼要研究中國網貸市場?
 
