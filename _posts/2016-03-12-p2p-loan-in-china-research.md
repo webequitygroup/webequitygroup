@@ -18,7 +18,7 @@ hefo_after:
 
 [Photo credit: Lendingmemo](http://lendingmemo.com/)
 
-## Million Dollar Question: 中國網貸(P2P)值得投資嗎?
+## **Million Dollar Question:** 中國網貸(P2P)值得投資嗎?
 
 ### **Why Yes**
 
@@ -30,11 +30,23 @@ hefo_after:
 
 這一切, 在現在負利率的時代, 實在是看起來很美好, 也許有點太美好了( Too good to be true )
 
+___
+
 ### **Why Not**
 
 * 2015年約3000家網貸公司, 有[868家倒閉](http://www.zcifc.com/sy_hydsj/20160120/8a21632d5220639d01525cce8735238c.html)
 
+就是說, 2015年, 如果你隨機投一家網貸公司, 有約**30%**的几率損失所有的本金和利息;
 
+__Ouch!__
+
+但換一個角度, 按貸款總額統計, 其實壞賬率只有約5.5%
+
+![來源:盈燦諮詢](http://www.wangdaizhijia.com/zhuanlan/uploadfile/2015/0831/20150831044646297.jpg)
+
+> 这就像没有人会说一些街边餐饮小店的倒闭会带给餐饮业发展造成巨大冲击一样，没有人会关心每天有多少沙县小吃、兰州拉面倒闭，说到底这都是任何行业内再正常不过的优胜劣汰过程。网贷行业内问题平台的数据可以看出，P2P网贷行业还没有出现真正的“倒闭潮”或者系统性风险的集中爆发。- 徐红伟- 網貸之家
+
+___
 
 
 ### 思考模型
