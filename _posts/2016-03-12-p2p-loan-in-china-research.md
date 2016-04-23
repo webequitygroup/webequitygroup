@@ -18,16 +18,24 @@ hefo_after:
 
 [Photo credit: Lendingmemo](http://lendingmemo.com/)
 
-## 為什麼中國網貸市場有吸引力?
+## Million Dollar Question: 中國網貸(P2P)值得投資嗎?
 
-三個字: **回報率**
+### **Why Yes**
 
-根據[凱利公式(Kelly's Criteria)](https://en.wikipedia.org/wiki/Kelly_criterion)
+>The most fertile land for the P2P industry is in China, not in the US or Europe, because the banks in China have so far kept tight controls over credit cards, and large sections of the private sector still find it hard to gain access to finance. - 張化橋
 
-投資回報率= 12%
-平台每年存活率 = 95%
+* 固定年化收益8% ~ 14%
+* 本金和利息擔保
+* 隨時取現, 一般沒有鎖定期
 
-按公式計算應該投入53% 的資金 
+這一切, 在現在負利率的時代, 實在是看起來很美好, 也許有點太美好了( Too good to be true )
+
+### **Why Not**
+
+* 2015年約3000家網貸公司, 有[868家倒閉](http://www.zcifc.com/sy_hydsj/20160120/8a21632d5220639d01525cce8735238c.html)
+
+
+
 
 ### 思考模型
 
@@ -37,9 +45,6 @@ hefo_after:
 * Invert
 
 ### 封閉的中國銀行系統, 高借貸利率
-
-
->The most fertile land for the P2P industry is in China, not in the US or Europe, because the banks in China have so far kept tight controls over credit cards, and large sections of the private sector still find it hard to gain access to finance. - 張化橋
 
 
 ### 大數定律和互聯網

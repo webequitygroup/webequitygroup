@@ -9,7 +9,7 @@
 
 * git push
 
-* do a git pull, you will see the file name got change to yyyy-mm-dd-title.md
+* do a git pull, you will see the file name got change to yyyy-mm-dd-post_title.md
 
 # The post header should be 
 
@@ -19,8 +19,8 @@ layout: post
 published: true
 ---
 
-**Mental Model Name:  **
-**Discipline:  ** 
-**Lattice Rank : **
+**Mental Model Name:**
+**Discipline:** 
+**Lattice Rank :**
 
 Introductions
